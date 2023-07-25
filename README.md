@@ -59,7 +59,7 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un issue p
 ## Autor
 
 - Nombre: [Yossef Joubayr Mejd](https://github.com/YossefJMT)
-- Sitio web: [https://www.ejemplo.com](https://www.ejemplo.com)
+- Sitio web: proximamente...
 
 ## Licencia
 
