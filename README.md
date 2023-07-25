@@ -64,7 +64,3 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un issue p
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
-
-```
-
-Recuerda personalizar la información del README.md con los detalles específicos de tu proyecto. Además, agrega capturas de pantalla, ejemplos detallados o cualquier otra información que consideres relevante para que los usuarios comprendan y utilicen el módulo OS de Node.js de manera efectiva. ¡Espero que esto te sea útil!
