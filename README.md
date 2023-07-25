@@ -63,4 +63,4 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes abrir un issue p
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
+Este proyecto está bajo la Licencia MIT.
